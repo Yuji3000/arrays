@@ -18,4 +18,11 @@ p height
 #!unshift will take "false" and place it in the first position of the array
 likes_pudding.unshift("false")
 p likes_pudding
+
+
+
 #! Index positions start from the left side of an array.Fist position is 0.
+
+
+#! assoc will search arrays and will return if object is found
+friends.assoc("names") ["jimothy"]
